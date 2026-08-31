@@ -27,9 +27,7 @@ needed.
 
 ## Background
 
-This project began as an individual final exam for CMSE 202 (Michigan State University,
-Fall 2022). It's been reorganized here as a standalone project: the exam scaffolding,
-grading cells, and git-workflow instructions have been removed, and a few rough edges in
-the original modeling code (numerical instability in the full logistic regression fit,
-deprecated pandas usage) have been cleaned up. The statistical and ML content is unchanged
-in substance.
+This project started as coursework during my undergraduate studies and has been
+reorganized here as a standalone project, with a few rough edges in the original modeling
+code (numerical instability in the full logistic regression fit, deprecated pandas usage)
+cleaned up along the way.
